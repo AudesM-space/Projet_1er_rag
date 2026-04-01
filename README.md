@@ -1,6 +1,6 @@
 # Projet_1er_rag
 # Developpement du RAG
-***Le fichier du développement du rag est soumis dans la liste des fichiers dans le dépot***
+***Le fichier du développement du rag est soumis dans la liste des fichiers dans le dépot sous le nom de RAGV2***
 # Interface streamlit 
 ## ETAPE 1 : Developpement de l'interface streamlit 
 ```python
